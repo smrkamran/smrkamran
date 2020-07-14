@@ -20,7 +20,8 @@ Looking for new opportunities,learning new skills and polishing current ones.
 
 ⚡ Html5, CSS3, JavaScript, TypeScript React, Redux, Angular,
 
-⚡ Asp .Net MVC / .Net Core 2.x, 3.x / Node, Express / Laravel / MSSQL / MongoDB / MySQL 
+⚡ Asp .Net MVC / .Net Core 2.x, 3.x / Node, Express / Laravel / MSSQL / MongoDB / MySQL
+
 ⚡ AWS Elastic Beanstalk / EC2 / RDS / Load Balancing / Route53 / VPC e.t.c
 <p>
   <img src="https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-critical" />
