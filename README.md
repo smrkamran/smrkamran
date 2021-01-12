@@ -4,7 +4,7 @@
 
 ` 😄 Sameer Kamran`
 
-`🌱 Lahore, Pakistan`
+`🌱 Koblenz, Germany`
 
 <a href="https://www.linkedin.com/in/sameer-kamran-dev/" target="_blank"><img  src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>`LinkedIn`</a> |  <a href="mailto:me@sameerkamran.com">`me@sameerkamran.com`</a> | <a href="http://sameerkamran.com">`http://sameerkamran.com`</a>
 
