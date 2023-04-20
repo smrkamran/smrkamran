@@ -1,6 +1,6 @@
 
 
-## 🔭 Full Stack Software Enginner [![HitCount](http://hits.dwyl.com/smrkamran/smrkamran.svg)](http://hits.dwyl.com/smrkamran/smrkamran)
+## 🔭 Full Stack Software Engineer [![HitCount](http://hits.dwyl.com/smrkamran/smrkamran.svg)](http://hits.dwyl.com/smrkamran/smrkamran)
 
 ` 😄 Sameer Kamran`
 
