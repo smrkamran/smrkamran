@@ -4,7 +4,7 @@
 
 ` 😄 Sameer Kamran`
 
-`🌱 Koblenz, Germany`
+`🌱 Frankfurt, Germany`
 
 <a href="https://www.linkedin.com/in/sameer-kamran-dev/" target="_blank"><img  src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>`LinkedIn`</a> |  <a href="mailto:me@sameerkamran.com">`me@sameerkamran.com`</a> | <a href="http://sameerkamran.com">`http://sameerkamran.com`</a>
 
@@ -12,9 +12,8 @@
 
 ### Hi there 👋 
 
-For almost 4 years working in software industry.Expertise in Microsoft Technologies like Asp .Net, Dotnet Core, Xamarin, WPF.
-Worked on PHP Frameworks i.e Laravel and Wordpress.
-Nodejs and Angular are also worth mentioning.
+For almost 6 years working in software industry.Expertise in Microsoft Technologies like Asp .Net, Dotnet Core, Xamarin, WPF.
+Good grip on javascript frameworks for Frontend development like Angular and React.
 Looking for new opportunities,learning new skills and polishing current ones. 
 
 
