@@ -2,8 +2,6 @@
 
 🌍 Based in **Frankfurt, Germany**  
 💻 Full Stack Web Developer @ [Schwarm Technologies GmbH](https://www.schwarm.com)  
-🎓 Pursuing **M.Sc. Web & Data Science** at **Universität Koblenz–Landau**  
-
 ---
 
 ## 🚀 About Me  
@@ -11,7 +9,8 @@
 I am a passionate **Full Stack Developer** with a strong background in building scalable, data-driven applications. My work ranges from **IoT-based energy platforms** to **modern web applications**. I enjoy solving complex problems and sharing my learnings through writing and open source.  
 
 ✨ Areas of interest:  
-- Full Stack Development (Angular, React, Node.js, Python, FastAPI)  
+- Full Stack Development (Angular, React, Node.js, Python, FastAPI)
+- AI Agents, Workflows, Langchain
 - Data Science & Visualization  
 - Cloud & DevOps  
 - Open Source Contributions  
@@ -56,10 +55,9 @@ Some highlights:
 
 ## 📫 Connect with Me  
 
-- 🌐 Portfolio: [sameerkamran.com](https://sameerkamran.com)  
-- 💼 LinkedIn: [linkedin.com/in/smrkamran](https://linkedin.com/in/smrkamran)  
-- 🐦 Twitter: [@smrkamran](https://twitter.com/smrkamran)  
-- ✉️ Email: sameer.kamran@schwarm.com  
+- 🌐 Portfolio: [sameerkamran.de](https://sameerkamran.de)  
+- 💼 LinkedIn: [linkedin.com/in/sameer-kamran-dev](https://linkedin.com/in/sameer-kamran-dev)  
+- ✉️ Email: me@sameerkamran.de
 
 ---
 
